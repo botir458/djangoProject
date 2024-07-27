@@ -1,0 +1,15 @@
+1.https://bootdey.com/snippets/view/simple-Jobs-openning-list
+adminkadan qoshilgan malumotlar chiqishi kk
+
+
+2. Login page qilinsin
+https://bootdey.com/snippets/view/Login-form-with-icon, login qilgan userlar login page ga kira olmasligi kerak
+
+
+3.https://bootdey.com/snippets/view/edit-profile-form login qilgan userlar ozining malumotlarini update qilsin
+
+
+4. user malumotlarini update qilgandan keyin, user  ni emailiga 'malumotlaringiz ozgartirildi' degan xabar yuborilsin, celery orqali message broker ga redis ishlatilsin
+
+
+Barcha kodlar zip qilingan holatda tashaladi, ichida venv bolmasin
